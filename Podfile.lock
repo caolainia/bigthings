@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Kingfisher (4.10.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - FMDB (= 2.7.5)
+  - Kingfisher (= 4.10.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FMDB
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+
+PODFILE CHECKSUM: a901d1c14fc171c67846c085c43de5e6b5ee1408
+
+COCOAPODS: 1.7.5

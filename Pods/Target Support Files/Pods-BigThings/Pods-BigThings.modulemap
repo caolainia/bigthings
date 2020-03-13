@@ -1,0 +1,6 @@
+framework module Pods_BigThings {
+  umbrella header "Pods-BigThings-umbrella.h"
+
+  export *
+  module * { export * }
+}
